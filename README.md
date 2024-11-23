@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasachan" alt="adityasachan" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**
+🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **BI Tools, ML, Databases**
+💬 Ask me about **BI Tools, ML, Databases**
 
-- 📫 How to reach me **adityasachan63769@gmail.com**
+📫 How to reach me **adityasachan63769@gmail.com**
 
-- ⚡ Fun fact **I Love to Debug Errors in Code**
+⚡ Fun fact **I Love to Debug Errors in Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
