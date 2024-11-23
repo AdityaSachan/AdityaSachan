@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasachan" alt="adityasachan" /></a> </p>
 
-🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**
+<p>🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**</p>
 
 👯 I’m looking to collaborate on **Machine Learning Projects**
 
